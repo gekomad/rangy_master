@@ -1,3 +1,3 @@
 # Enjoy playing Janggi
 
-View [janggi_master](https://gekomad.github.io/rangy_master) site
+View [Rangy Master](https://gekomad.github.io/rangy_master) site
